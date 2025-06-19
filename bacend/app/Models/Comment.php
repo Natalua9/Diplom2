@@ -1,0 +1,29 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Comment extends Model
+{
+    use HasFactory;
+    protected $fillable = [
+        'id_user',
+        'id_teacher',
+        'id_record',
+        'contant',
+        'status',
+        'rating',
+    ];
+    public function user()
+    {
+        return $this->belongsTo(User::class, 'id_user');
+    }
+      public function teacher()
+    {
+      
+        return $this->belongsTo(User::class, 'id_teacher', 'id');
+      
+    }
+}

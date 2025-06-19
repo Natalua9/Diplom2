@@ -1,0 +1,191 @@
+[2025-06-03 19:01:09] local.INFO: Incoming teacher signup data: {"full_name":"defrgfh","email":"la080@gmail.com","phone":"+79870252334","age":"2005-08-20","gender":"мужчина","password":"12345678","directions":"[5]"} 
+[2025-06-03 19:40:33] local.INFO: Returned 1 lesson to subscription ID: 18 for record ID: 22 due to teacher cancellation.  
+[2025-06-03 19:40:33] local.INFO: Returned 1 lesson to subscription ID: 22 for record ID: 38 due to teacher cancellation.  
+[2025-06-05 10:07:36] local.INFO: Processing subscription ID: 21, User ID: 29  
+[2025-06-05 10:07:36] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 21 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 21 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:07:36] local.INFO: Processing subscription ID: 20, User ID: 29  
+[2025-06-05 10:07:36] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 20 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 20 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:07:36] local.INFO: Processing subscription ID: 19, User ID: 29  
+[2025-06-05 10:07:36] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 1, Expires At: 2025-06-02  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 19 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 19 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-05 10:07:36] local.INFO: Processing subscription ID: 18, User ID: 29  
+[2025-06-05 10:07:36] local.INFO: Initial data - DB Status: активный, Count Lessons: 2, Expires At: 2025-07-02  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 18 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 18 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:07:36] local.INFO: Processing subscription ID: 17, User ID: 29  
+[2025-06-05 10:07:36] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 0, Expires At: 2025-07-02  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 17 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 17 - Potential 'expired' notification. Content: [Абонемент ID:17 на 'Джаз-фанк (Jazz-Funk)' ЗАКОНЧИЛСЯ (причина: закончились занятия).]  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 17 - 'Expired' notification NOT created because one already exists.  
+[2025-06-05 10:07:36] local.INFO: Processing subscription ID: 16, User ID: 29  
+[2025-06-05 10:07:36] local.INFO: Initial data - DB Status: активный, Count Lessons: 4, Expires At: 2025-06-05  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 16 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 16 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 16 - Potential 'expiring soon by time' notification. Content: [Абонемент ID:16 на 'Балет' СКОРО ЗАКОНЧИТСЯ по времени. Срок истекает СЕГОДНЯ (05.06.2025). У вас осталось 4 занятий.]  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 16 - 'Expiring soon by time' notification NOT created (already exists and unconfirmed).  
+[2025-06-05 10:07:36] local.INFO: Processing subscription ID: 7, User ID: 29  
+[2025-06-05 10:07:36] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 4, Expires At: 2025-06-22  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 7 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 10:07:36] local.INFO: Subscription ID: 7 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-05 10:07:56] local.INFO: Processing subscription ID: 21, User ID: 29  
+[2025-06-05 10:07:56] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 21 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 21 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:07:56] local.INFO: Processing subscription ID: 20, User ID: 29  
+[2025-06-05 10:07:56] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 20 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 20 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:07:56] local.INFO: Processing subscription ID: 19, User ID: 29  
+[2025-06-05 10:07:56] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 1, Expires At: 2025-06-02  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 19 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 19 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-05 10:07:56] local.INFO: Processing subscription ID: 18, User ID: 29  
+[2025-06-05 10:07:56] local.INFO: Initial data - DB Status: активный, Count Lessons: 2, Expires At: 2025-07-02  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 18 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 18 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:07:56] local.INFO: Processing subscription ID: 17, User ID: 29  
+[2025-06-05 10:07:56] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 0, Expires At: 2025-07-02  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 17 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 17 - Potential 'expired' notification. Content: [Абонемент ID:17 на 'Джаз-фанк (Jazz-Funk)' ЗАКОНЧИЛСЯ (причина: закончились занятия).]  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 17 - 'Expired' notification NOT created because one already exists.  
+[2025-06-05 10:07:56] local.INFO: Processing subscription ID: 16, User ID: 29  
+[2025-06-05 10:07:56] local.INFO: Initial data - DB Status: активный, Count Lessons: 4, Expires At: 2025-06-05  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 16 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 16 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 16 - Potential 'expiring soon by time' notification. Content: [Абонемент ID:16 на 'Балет' СКОРО ЗАКОНЧИТСЯ по времени. Срок истекает СЕГОДНЯ (05.06.2025). У вас осталось 4 занятий.]  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 16 - Creating 'expiring soon by time' notification.  
+[2025-06-05 10:07:56] local.INFO: Processing subscription ID: 7, User ID: 29  
+[2025-06-05 10:07:56] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 4, Expires At: 2025-06-22  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 7 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 10:07:56] local.INFO: Subscription ID: 7 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-05 10:21:38] local.INFO: Processing subscription ID: 21, User ID: 29  
+[2025-06-05 10:21:38] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 21 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 21 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:21:38] local.INFO: Processing subscription ID: 20, User ID: 29  
+[2025-06-05 10:21:38] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 20 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 20 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:21:38] local.INFO: Processing subscription ID: 19, User ID: 29  
+[2025-06-05 10:21:38] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 1, Expires At: 2025-06-02  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 19 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 19 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-05 10:21:38] local.INFO: Processing subscription ID: 18, User ID: 29  
+[2025-06-05 10:21:38] local.INFO: Initial data - DB Status: активный, Count Lessons: 2, Expires At: 2025-07-02  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 18 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 18 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:21:38] local.INFO: Processing subscription ID: 17, User ID: 29  
+[2025-06-05 10:21:38] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 0, Expires At: 2025-07-02  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 17 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 17 - Potential 'expired' notification. Content: [Абонемент ID:17 на 'Джаз-фанк (Jazz-Funk)' ЗАКОНЧИЛСЯ (причина: закончились занятия).]  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 17 - 'Expired' notification NOT created because one already exists.  
+[2025-06-05 10:21:38] local.INFO: Processing subscription ID: 16, User ID: 29  
+[2025-06-05 10:21:38] local.INFO: Initial data - DB Status: активный, Count Lessons: 4, Expires At: 2025-06-05  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 16 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 16 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 16 - Potential 'expiring soon by time' notification. Content: [Абонемент ID:16 на 'Балет' СКОРО ЗАКОНЧИТСЯ по времени. Срок истекает СЕГОДНЯ (05.06.2025). У вас осталось 4 занятий.]  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 16 - 'Expiring soon by time' notification NOT created (already exists and unconfirmed).  
+[2025-06-05 10:21:38] local.INFO: Processing subscription ID: 7, User ID: 29  
+[2025-06-05 10:21:38] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 4, Expires At: 2025-06-22  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 7 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 10:21:38] local.INFO: Subscription ID: 7 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-05 11:09:28] local.INFO: Processing subscription ID: 21, User ID: 29  
+[2025-06-05 11:09:28] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 21 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 21 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 11:09:28] local.INFO: Processing subscription ID: 20, User ID: 29  
+[2025-06-05 11:09:28] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 20 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 20 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 11:09:28] local.INFO: Processing subscription ID: 19, User ID: 29  
+[2025-06-05 11:09:28] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 1, Expires At: 2025-06-02  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 19 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 19 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-05 11:09:28] local.INFO: Processing subscription ID: 18, User ID: 29  
+[2025-06-05 11:09:28] local.INFO: Initial data - DB Status: активный, Count Lessons: 2, Expires At: 2025-07-02  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 18 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 18 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 11:09:28] local.INFO: Processing subscription ID: 17, User ID: 29  
+[2025-06-05 11:09:28] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 0, Expires At: 2025-07-02  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 17 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 17 - Potential 'expired' notification. Content: [Абонемент ID:17 на 'Джаз-фанк (Jazz-Funk)' ЗАКОНЧИЛСЯ (причина: закончились занятия).]  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 17 - 'Expired' notification NOT created because one already exists.  
+[2025-06-05 11:09:28] local.INFO: Processing subscription ID: 16, User ID: 29  
+[2025-06-05 11:09:28] local.INFO: Initial data - DB Status: активный, Count Lessons: 4, Expires At: 2025-06-05  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 16 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 16 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 16 - Potential 'expiring soon by time' notification. Content: [Абонемент ID:16 на 'Балет' СКОРО ЗАКОНЧИТСЯ по времени. Срок истекает СЕГОДНЯ (05.06.2025). У вас осталось 4 занятий.]  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 16 - 'Expiring soon by time' notification NOT created (already exists and unconfirmed).  
+[2025-06-05 11:09:28] local.INFO: Processing subscription ID: 7, User ID: 29  
+[2025-06-05 11:09:28] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 4, Expires At: 2025-06-22  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 7 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 11:09:28] local.INFO: Subscription ID: 7 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-05 11:26:58] local.INFO: Processing subscription ID: 21, User ID: 29  
+[2025-06-05 11:26:58] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 21 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 21 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 11:26:58] local.INFO: Processing subscription ID: 20, User ID: 29  
+[2025-06-05 11:26:58] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 20 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 20 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 11:26:58] local.INFO: Processing subscription ID: 19, User ID: 29  
+[2025-06-05 11:26:58] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 1, Expires At: 2025-06-02  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 19 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 19 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-05 11:26:58] local.INFO: Processing subscription ID: 18, User ID: 29  
+[2025-06-05 11:26:58] local.INFO: Initial data - DB Status: активный, Count Lessons: 2, Expires At: 2025-07-02  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 18 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 18 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 11:26:58] local.INFO: Processing subscription ID: 17, User ID: 29  
+[2025-06-05 11:26:58] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 0, Expires At: 2025-07-02  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 17 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 17 - Potential 'expired' notification. Content: [Абонемент ID:17 на 'Джаз-фанк (Jazz-Funk)' ЗАКОНЧИЛСЯ (причина: закончились занятия).]  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 17 - 'Expired' notification NOT created because one already exists.  
+[2025-06-05 11:26:58] local.INFO: Processing subscription ID: 16, User ID: 29  
+[2025-06-05 11:26:58] local.INFO: Initial data - DB Status: активный, Count Lessons: 4, Expires At: 2025-06-05  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 16 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 16 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 16 - Potential 'expiring soon by time' notification. Content: [Абонемент ID:16 на 'Балет' СКОРО ЗАКОНЧИТСЯ по времени. Срок истекает СЕГОДНЯ (05.06.2025). У вас осталось 4 занятий.]  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 16 - 'Expiring soon by time' notification NOT created (already exists and unconfirmed).  
+[2025-06-05 11:26:58] local.INFO: Processing subscription ID: 7, User ID: 29  
+[2025-06-05 11:26:58] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 4, Expires At: 2025-06-22  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 7 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-05 11:26:58] local.INFO: Subscription ID: 7 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-14 17:45:27] local.INFO: Processing subscription ID: 21, User ID: 29  
+[2025-06-14 17:45:27] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 21 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 21 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-14 17:45:27] local.INFO: Processing subscription ID: 20, User ID: 29  
+[2025-06-14 17:45:27] local.INFO: Initial data - DB Status: активный, Count Lessons: 3, Expires At: 2025-07-03  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 20 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 20 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-14 17:45:27] local.INFO: Processing subscription ID: 19, User ID: 29  
+[2025-06-14 17:45:27] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 1, Expires At: 2025-06-02  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 19 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 19 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-14 17:45:27] local.INFO: Processing subscription ID: 18, User ID: 29  
+[2025-06-14 17:45:27] local.INFO: Initial data - DB Status: активный, Count Lessons: 2, Expires At: 2025-07-02  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 18 - Original DB Status: активный, Calculated Actual Status: активный  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 18 - Is 'активный'. Checking for 'low lessons' or 'expiring soon' notifications.  
+[2025-06-14 17:45:27] local.INFO: Processing subscription ID: 17, User ID: 29  
+[2025-06-14 17:45:27] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 0, Expires At: 2025-07-02  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 17 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 17 - Potential 'expired' notification. Content: [Абонемент ID:17 на 'Джаз-фанк (Jazz-Funk)' ЗАКОНЧИЛСЯ (причина: закончились занятия).]  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 17 - 'Expired' notification NOT created because one already exists.  
+[2025-06-14 17:45:27] local.INFO: Processing subscription ID: 16, User ID: 29  
+[2025-06-14 17:45:27] local.INFO: Initial data - DB Status: активный, Count Lessons: 4, Expires At: 2025-06-05  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 16 - Original DB Status: активный, Calculated Actual Status: неактивный  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 16 - Potential 'expired' notification. Content: [Абонемент ID:16 на 'Балет' ЗАКОНЧИЛСЯ (причина: истек срок действия (05.06.2025)).]  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 16 - Creating 'expired' notification (was missing).  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 16 - 'Expired' notification created. Related 'soon'/'low lessons' notifications marked as read.  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 16 - Updating subscription status in DB from 'активный' to 'неактивный'.  
+[2025-06-14 17:45:27] local.INFO: Processing subscription ID: 7, User ID: 29  
+[2025-06-14 17:45:27] local.INFO: Initial data - DB Status: неактивный, Count Lessons: 4, Expires At: 2025-06-22  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 7 - Original DB Status: неактивный, Calculated Actual Status: неактивный  
+[2025-06-14 17:45:27] local.INFO: Subscription ID: 7 - No conditions met for active subscription notifications (status is 'неактивный').  
+[2025-06-15 10:39:14] local.INFO: Request data: {"full_name":"Соколов Андрей Владимирович","email":"sokolov_av@gmail.com","phone":"79870252334","age":"2005-08-20","directions":"[5,14]","id":"47","photo":{"Illuminate\\Http\\UploadedFile":"D:\\OS\\OSPanel\\userdata\\temp\\upload\\php8A59.tmp"}} 
